@@ -1,4 +1,4 @@
-import axios, { Axios } from 'axios'
+import axios from 'axios'
 import { useEffect, useState } from 'react'
 import Chart from 'react-apexcharts'
 import { SaleSuccess } from 'type/sale'
